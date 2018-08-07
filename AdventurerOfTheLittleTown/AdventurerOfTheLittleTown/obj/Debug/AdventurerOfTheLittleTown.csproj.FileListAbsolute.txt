@@ -1,0 +1,11 @@
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Debug\AdventurerOfTheLittleTown.exe.config
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Debug\AdventurerOfTheLittleTown.exe
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Debug\AdventurerOfTheLittleTown.pdb
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Debug\Engine.dll
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Debug\Engine.pdb
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Debug\AdventurerOfTheLittleTown.csprojResolveAssemblyReference.cache
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Debug\AdventurerOfTheLittleTown.Properties.Resources.resources
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Debug\AdventurerOfTheLittleTown.csproj.GenerateResource.Cache
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Debug\AdventurerOfTheLittleTown.exe
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Debug\AdventurerOfTheLittleTown.pdb
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Debug\AdventurerOfTheLittleTown.AdventurerOfTheLittleTown.resources

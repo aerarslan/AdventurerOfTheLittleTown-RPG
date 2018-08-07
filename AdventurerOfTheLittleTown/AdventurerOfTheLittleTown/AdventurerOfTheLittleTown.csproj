@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8CE5EEB-D564-4B37-BAB4-637FE85F3804}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AdventurerOfTheLittleTown</RootNamespace>
+    <AssemblyName>AdventurerOfTheLittleTown</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdventurerOfTheLittleTown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdventurerOfTheLittleTown.Designer.cs">
+      <DependentUpon>AdventurerOfTheLittleTown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TradingScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TradingScreen.Designer.cs">
+      <DependentUpon>TradingScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guide.Designer.cs">
+      <DependentUpon>Guide.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdventurerOfTheLittleTown.resx">
+      <DependentUpon>AdventurerOfTheLittleTown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TradingScreen.resx">
+      <DependentUpon>TradingScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guide.resx">
+      <DependentUpon>Guide.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Engine\Engine.csproj">
+      <Project>{a457da2c-4c80-4607-bb77-09590b34c566}</Project>
+      <Name>Engine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\littleTownMap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weightIcon.png" />
+    <None Include="Resources\mapSpiderCave.png" />
+    <None Include="Resources\mapspiderForest1.png" />
+    <None Include="Resources\mapTownSquare.png" />
+    <None Include="Resources\mapSpiderForest.png" />
+    <None Include="Resources\mapHome.png" />
+    <None Include="Resources\mapGuardPost.png" />
+    <None Include="Resources\mapFarmHouse.png" />
+    <None Include="Resources\mapFarmersField.png" />
+    <None Include="Resources\mapBridge.png" />
+    <None Include="Resources\mapAlchemistHut.png" />
+    <None Include="Resources\mapAlchemistGarden.png" />
+    <None Include="Resources\upArrow.png" />
+    <None Include="Resources\down-arrow-hover.png" />
+    <None Include="Resources\right-arrow-hover.png" />
+    <None Include="Resources\left-arrow-hover.png" />
+    <None Include="Resources\up-arrow-hover.png" />
+    <None Include="Resources\moveIcon.png" />
+    <None Include="Resources\down-arrow.png" />
+    <None Include="Resources\up-arrow.png" />
+    <None Include="Resources\left-arrow.png" />
+    <None Include="Resources\right-arrow.png" />
+    <None Include="Resources\skullIcon.png" />
+    <None Include="Resources\lvlIcon.png" />
+    <None Include="Resources\expIcon.png" />
+    <None Include="Resources\goldIcon.png" />
+    <None Include="Resources\guide1.jpg" />
+    <None Include="Resources\guide2.jpg" />
+    <None Include="Resources\guide3.jpg" />
+    <None Include="Resources\guide4.jpg" />
+    <None Include="Resources\guide5.jpg" />
+    <Content Include="Resources\heartIcon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

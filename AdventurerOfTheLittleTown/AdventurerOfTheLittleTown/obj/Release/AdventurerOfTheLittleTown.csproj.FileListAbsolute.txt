@@ -1,0 +1,13 @@
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Release\AdventurerOfTheLittleTown.exe.config
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Release\AdventurerOfTheLittleTown.exe
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Release\AdventurerOfTheLittleTown.pdb
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Release\Engine.dll
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\bin\Release\Engine.pdb
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Release\AdventurerOfTheLittleTown.csprojResolveAssemblyReference.cache
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Release\AdventurerOfTheLittleTown.AdventurerOfTheLittleTown.resources
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Release\AdventurerOfTheLittleTown.Properties.Resources.resources
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Release\AdventurerOfTheLittleTown.csproj.GenerateResource.Cache
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Release\AdventurerOfTheLittleTown.exe
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Release\AdventurerOfTheLittleTown.pdb
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Release\AdventurerOfTheLittleTown.TradingScreen.resources
+C:\Users\MONSTER\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\AdventurerOfTheLittleTown\obj\Release\AdventurerOfTheLittleTown.Guide.resources
