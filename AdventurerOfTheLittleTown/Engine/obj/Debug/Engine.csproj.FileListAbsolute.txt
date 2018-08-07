@@ -1,0 +1,5 @@
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\Engine\bin\Debug\Engine.dll
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\Engine\bin\Debug\Engine.pdb
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\Engine\obj\Debug\Engine.dll
+c:\users\monster\documents\visual studio 2013\Projects\AdventurerOfTheLittleTown\Engine\obj\Debug\Engine.pdb
