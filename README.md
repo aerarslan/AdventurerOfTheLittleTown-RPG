@@ -71,3 +71,4 @@ There are also more programming techniques you can learn to make the program a l
 
 ![adventurer of the little town](https://user-images.githubusercontent.com/42182119/46920486-a102ff00-cff7-11e8-9c42-8cb35769d625.jpg)
 
+![adventurer of the little town 2](https://user-images.githubusercontent.com/42182119/46920511-07881d00-cff8-11e8-9e3d-e3145c6d756f.jpg)
