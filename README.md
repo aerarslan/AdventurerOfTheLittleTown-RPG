@@ -38,6 +38,7 @@ Here are a few ideas:
 * Add a level requirement for some locations
 * Add spells and scrolls
   * Level requirements for the spells
+  * Cooldown (turn based) system for the spells
 * Add different kinds of potions: increased damage, critical damage, etc.
 * Add curse system : freeze, paralyze, poison, etc.
   * Add special weapons with curse ability
