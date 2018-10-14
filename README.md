@@ -1,4 +1,4 @@
-# Text-Based-RPG-OOP
+# Text-Based-RPG [Object Oriented Programming]
 
 ## Notice
 
