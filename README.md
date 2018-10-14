@@ -66,4 +66,7 @@ There are also more programming techniques you can learn to make the program a l
 * LINQ, when searching lists
 * Events/delegates, to handle communication between the logic project and the UI project – which will let you move more logic code out of the UI project
 * BindingList, so you don't have to repeatedly repopulate the DataGridViews and ComboBox in the UI
-What will the game look like?
+
+## What will the game look like?
+
+
